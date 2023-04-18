@@ -1,7 +1,3 @@
-<div align="center">
- <img src="https://github.com/kgmcdonnell/kgmcdonnell/blob/main/banner.png?raw=true" align="center" style="width: 100%" />
- </div>
- 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Ruby on Rails<br>💬 Contact Me: kgmcdonnell@mail.usf.edu<br>⚡ Fun fact: I love skiing!
 
