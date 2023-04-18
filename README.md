@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Ruby on Rails<br>💬 Contact Me: kgmcdonnell@mail.usf.edu<br>⚡ Fun fact: I love skiing!
+🔭 I’m currently a student at Actualize Bootcamp<br>🌱 I’m currently learning full stack web development<br>💬 Contact Me: kgmcdonnell@mail.usf.edu<br>⚡ Fun fact: I love skiing!
 
 
 ## 🌐 Socials:
