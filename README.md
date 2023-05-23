@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualize Coding Bootcamp Graduate<br>🌱 I’m currently learning full stack web development<br>💬 Contact Me: kgmcdonnell@mail.usf.edu<br>⚡ Fun fact: I love skiing!
+🔭 Actualize Coding Bootcamp Graduate<br>🌱 I’m currently learning full stack web development<br>💬 Contact Me: kgmcdonnell@mail.usf.edu
 
 
 # 💻 Tech Stack:
