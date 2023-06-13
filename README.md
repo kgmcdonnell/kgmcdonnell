@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualize Coding Bootcamp Graduate<br>🌱 I’m currently focusing on front-end web development<br>💬 Contact Me: kgmcdonnell@mail.usf.edu
+🔭 Actualize Coding Bootcamp Graduate<br>🌱 I’m currently focusing on Front-End Web Development<br>💬 Contact Me: kgmcdonnell@mail.usf.edu
 
 
 # 💻 Tech Stack:
